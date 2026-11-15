@@ -1,26 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=barz%20music&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=listen%20free%20•%20no%20ads%20•%20no%20premium&descAlignY=100&descSize=15" width="100%" />
+<img src="public/logo.jpg" width="180" alt="barz music" />
 
 <br>
 
-<p style="font-variant: small-caps; letter-spacing: 3px; font-size: 14px; color: #888;">
+<p style="font-variant: small-caps; letter-spacing: 4px; font-size: 20px; font-weight: 600; color: #111;">
+  barz music
+</p>
+
+<p style="font-variant: small-caps; letter-spacing: 3px; font-size: 13px; color: #888;">
   a music platform for everyone
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/free-00E676?style=flat-square" />
   <img src="https://img.shields.io/badge/no%20ads-FF4081?style=flat-square" />
-  <img src="https://img.shields.io/badge/android%20apk-3DDC84?style=flat-square" />
-  <img src="https://img.shields.io/badge/web%20available-7C4DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/web-7C4DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square" />
 </p>
 
 <a href="https://github.com/barz-dev/barz-music/releases/latest">
-  <img src="https://img.shields.io/badge/download%20apk-7C4DFF?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/download%20apk-111111?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://music.barz.web.id">
-  <img src="https://img.shields.io/badge/open%20web-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/open%20web-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -29,7 +33,7 @@
 
 <h2 align="center" style="font-variant: small-caps; letter-spacing: 4px; font-weight: 400;">about barz music</h2>
 
-<p align="center" style="font-size: 16px; line-height: 1.8; color: #aaa; max-width: 600px;">
+<p align="center" style="font-size: 16px; line-height: 1.8; color: #555; max-width: 600px;">
   barz music adalah platform musik yang dibuat dengan satu ide sederhana.<br>
   musik harusnya bisa dinikmati semua orang, tanpa hambatan.<br><br>
   terinspirasi dari pengalaman mendengarkan musik terbaik,<br>
@@ -72,7 +76,7 @@ tidak ingin memilih? biarkan barz music memilihkan lagu untukmu.
 cari berdasarkan judul, artis, atau potongan lirik.
 
 ### <span style="font-variant: small-caps; letter-spacing: 2px;">clean design</span>
-tampilan gelap dengan aksen ungu dan pink. tenang, modern, dan nyaman dilihat lama.
+tampilan dengan aksen ungu dan pink. tenang, modern, dan nyaman dilihat lama.
 
 <br>
 
@@ -110,15 +114,13 @@ tampilan gelap dengan aksen ungu dan pink. tenang, modern, dan nyaman dilihat la
 
 <div align="center">
   <a href="https://github.com/barz-dev/barz-music/releases/latest">
-    <img src="https://img.shields.io/badge/download%20latest%20release-7C4DFF?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/download%20latest%20release-111111?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <br><br>
   <sub>versi terbaru selalu tersedia di halaman releases.</sub>
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=footer&text=barz%20music&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 <div align="center">
   <p style="font-variant: small-caps; letter-spacing: 3px; font-size: 12px; color: #888;">
