@@ -147,15 +147,6 @@ Get started with BARZ MUSIC today.
 
 <sub>Always get the latest version from the official releases page.</sub>
 
-<br /><br />
-
-<a href="https://music.barz.web.id">WEBSITE</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/barz-dev/barz-music/releases">RELEASES</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/barz-dev/barz-music">SOURCE CODE</a>
-
-<br /><br />
 
 ---
 
