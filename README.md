@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="public/logo.jpg" width="180" alt="barz music" />
-
+<img src="https://music.barz.web.id/logo.jpg" width="180" alt="barz music" />
 <br>
 
 <p style="font-variant: small-caps; letter-spacing: 5px; font-size: 24px; font-weight: 600;">
