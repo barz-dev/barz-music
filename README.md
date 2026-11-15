@@ -1,78 +1,168 @@
-<div align="center">
-
-<img src="https://music.barz.web.id/logo.jpg" width="180" alt="barz music" />
-<br>
-
-<p style="font-variant: small-caps; letter-spacing: 5px; font-size: 24px; font-weight: 600;">
-  barz music
-</p>
-
-<p style="font-variant: small-caps; letter-spacing: 3px; font-size: 13px; color: #888;">
-  a music platform for everyone
-</p>
-
-</div>
-
-<br>
-
-## <p align="center" style="font-variant: small-caps; letter-spacing: 4px;">about</p>
-
-<p align="center" style="max-width: 600px; line-height: 1.8; color: #555;">
-
-<!-- ISI DESKRIPSI LU DISINI, GANTI TEKS DIBAWAH INI -->
-
-Tulis deskripsi barz music lu disini.
-Ceritain barz music itu apa, buat siapa, dan kenapa lu bikin.
-
-<!-- SAMPAI SINI -->
-
-</p>
-
-<br>
-
-## <p align="center" style="font-variant: small-caps; letter-spacing: 4px;">features</p>
 
 <div align="center">
 
-| feature | penjelasan |
-| :--- | :--- |
-| **unlimited music** | putar lagu apa pun, tanpa batas. skip sepuasnya. |
-| **free** | semua fitur bisa dipakai gratis, tanpa berlangganan. |
-| **no ads** | tanpa iklan yang motong lagu di tengah jalan. |
-| **synced lyrics** | lirik jalan bareng lagu, enak buat karaokean. |
-| **playlist & library** | simpan lagu favorit, bikin playlist sesuai mood. |
-| **trending & discovery** | liat lagu yang lagi rame, nemuin artis baru. |
-| **search** | cari lagu, artis, album, atau potongan lirik. |
-| **radio mode** | males milih? biarin barz music yang pilihin. |
-| **offline mode** | download lagu, dengerin tanpa internet. |
-| **clean design** | tampilan simpel, ungu - pink, nyaman dilihat lama. |
+<img src="https://music.barz.web.id/logo.jpg" width="150" alt="BARZ MUSIC" />
 
-</div>
+<br />
 
-<br>
+# BARZ MUSIC
 
-## <p align="center" style="font-variant: small-caps; letter-spacing: 4px;">download</p>
+**YOUR MUSIC. YOUR WORLD.**
 
-<div align="center">
+A music platform for everyone.
+
+<br />
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/PRICE-FREE-white?style=flat-square" />
+<img src="https://img.shields.io/badge/ADS-NONE-FF4081?style=flat-square" />
+<img src="https://img.shields.io/badge/PLATFORM-WEB%20%2B%20ANDROID-8B5CF6?style=flat-square" />
+
+<br /><br />
 
 <a href="https://github.com/barz-dev/barz-music/releases/latest">
-  <img src="https://img.shields.io/badge/download%20apk-111111?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/↓_DOWNLOAD_APK-FFFFFF?style=for-the-badge&logo=android&logoColor=black" />
 </a>
-&nbsp;
 <a href="https://music.barz.web.id">
-  <img src="https://img.shields.io/badge/open%20web-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_WEB-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<br><br>
+<br /><br />
 
-<sub>apk untuk android • web untuk semua device</sub>
+<sub>LISTEN WITHOUT LIMITS · DISCOVER WITHOUT BOUNDARIES</sub>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <p style="font-variant: small-caps; letter-spacing: 3px; font-size: 11px; color: #888;">
-    music.barz.web.id • barz music • 2026
-  </p>
+
+## ✦ ABOUT BARZ MUSIC
+
+</div>
+
+**BARZ MUSIC** is a music platform designed to make listening to music simple, comfortable, and accessible to everyone.
+
+No complicated experience. No unnecessary interruptions. Just your favorite music, whenever and wherever you want.
+
+Built with the idea that music should be accessible to everyone.
+
+---
+
+<div align="center">
+
+## ✦ FEATURES
+
+*Everything you need. Nothing you don't.*
+
+</div>
+
+| FEATURE | DESCRIPTION |
+|:---|:---|
+| 🎵 **Unlimited Music** | Enjoy music without listening limits. |
+| 🆓 **100% Free** | Access the platform without subscriptions. |
+| 🚫 **Ad-Free Experience** | Enjoy music without intrusive advertisements. |
+| 🎤 **Synced Lyrics** | Follow lyrics while listening to your favorite songs. |
+| 📚 **Music Library** | Keep your favorite tracks organized. |
+| ❤️ **Personal Playlists** | Create playlists for every mood. |
+| 🔥 **Trending Music** | Discover popular tracks and new favorites. |
+| 🔎 **Smart Search** | Find songs, artists, and albums easily. |
+| 📻 **Radio Mode** | Discover music without choosing every track. |
+| 📥 **Offline Mode** | Download music for offline listening. |
+| ✨ **Modern Interface** | Clean and intuitive listening experience. |
+
+---
+
+<div align="center">
+
+## ✦ AVAILABLE PLATFORMS
+
+</div>
+
+<details>
+<summary><b>🌐 Web Application</b></summary>
+
+<br />
+
+Listen directly from your browser. No application installation required.
+
+**Website:** https://music.barz.web.id
+
+</details>
+
+<details>
+<summary><b>📱 Android Application</b></summary>
+
+<br />
+
+Get the Android APK and enjoy BARZ MUSIC on your device.
+
+**Download:** https://github.com/barz-dev/barz-music/releases/latest
+
+</details>
+
+---
+
+<div align="center">
+
+## ✦ INSTALLATION
+
+</div>
+
+**01 — Download**
+
+Get the latest Android APK from GitHub Releases.
+
+**02 — Install**
+
+Open the downloaded APK and allow installation from unknown sources if requested.
+
+**03 — Login**
+
+Open BARZ MUSIC and sign in to your account.
+
+**04 — Enjoy**
+
+Search, discover, and play your favorite music.
+
+---
+
+<div align="center">
+
+## ✦ DOWNLOAD
+
+<br />
+
+### READY TO LISTEN?
+
+Get started with BARZ MUSIC today.
+
+<br />
+
+<a href="https://github.com/barz-dev/barz-music/releases/latest">
+  <img src="https://img.shields.io/badge/GET_THE_LATEST_APK-FFFFFF?style=for-the-badge&logo=android&logoColor=black" />
+</a>
+
+<br /><br />
+
+<sub>Always get the latest version from the official releases page.</sub>
+
+<br /><br />
+
+<a href="https://music.barz.web.id">WEBSITE</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/barz-dev/barz-music/releases">RELEASES</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/barz-dev/barz-music">SOURCE CODE</a>
+
+<br /><br />
+
+---
+
+**BARZ MUSIC**
+
+*Made for music lovers.*
+
+<sub>© 2026 BARZ MUSIC · ALL RIGHTS RESERVED.</sub>
+
 </div>
